@@ -18,7 +18,7 @@ var CSP_BLOCK_HTTPS = "default-src * data 'unsafe-inline' 'unsafe-eval'; frame-s
 
 
 
-init(8080);
+init(9527);
 
 function init(port) {
     var svr = $http.createServer(onRequest);
