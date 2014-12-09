@@ -1,6 +1,6 @@
 /**
  * Https Downgrade Proxy
- *   @version 0.0.3
+ *   @version 0.0.3.0
  *   @author EtherDream
  */
 'use strict';
